@@ -1,0 +1,23 @@
+{
+  "title": "Permutations",
+  "titleSlug": "permutations",
+  "frontendQuestionId": "46",
+  "leetcodeUrl": "https://leetcode.com/problems/permutations/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-27T19:08:15.552Z",
+  "runtimeMs": 0,
+  "memoryKb": 10854,
+  "totalCorrect": 26,
+  "totalTestcases": 26,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-27T19:08:23.139Z"
+}
