@@ -1,0 +1,24 @@
+{
+  "title": "Subsets",
+  "titleSlug": "subsets",
+  "frontendQuestionId": "78",
+  "leetcodeUrl": "https://leetcode.com/problems/subsets/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-27T19:16:54.054Z",
+  "runtimeMs": 2,
+  "memoryKb": 9933,
+  "totalCorrect": 10,
+  "totalTestcases": 10,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-27T19:16:59.093Z"
+}
