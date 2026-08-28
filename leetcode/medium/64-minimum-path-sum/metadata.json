@@ -12,13 +12,13 @@
   "language": "cpp",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-08-28T22:27:38.030Z",
-  "runtimeMs": 3,
-  "memoryKb": 18637,
+  "submittedAt": "2026-08-28T22:42:37.186Z",
+  "runtimeMs": 0,
+  "memoryKb": 15770,
   "totalCorrect": 66,
   "totalTestcases": 66,
-  "helpType": "PENDING_SELF_REPORT",
-  "helpLabel": "Pending self report",
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
   "focusSeconds": null,
-  "syncedAt": "2026-08-28T22:27:44.907Z"
+  "syncedAt": "2026-08-28T22:42:40.590Z"
 }
