@@ -1,35 +1,24 @@
 class Solution {
 public:
-bool isPalindrome(const string& s) {
-    int n = s.size();
-    int left = 0, right = n-1;
-    while (left<right) {
-        if (s[left]!=s[right]) {
-            return false;
-        }
-        left++;
-        right--;
+int expand(const string& s, int left, int right) {
+    while (left>=0 && right<s.size()&& s[left]==s[right]) {
+        left--;right++;
     }
-    return true;
-}
-   string longestPalind = "";
-void findLongesPalindrome(const string& s, int start,vector<int>& vis ) {
-    if (start==s.size())return;
-    if (vis[start]==1)return;
-    string temp = "";
-    vis[start] = 1;
-    for (int i= start;i<s.size(); i++) {
-        temp.push_back(s[i]);
-        if ( isPalindrome(temp) && (temp.size()>longestPalind.size())) {
-            longestPalind = temp;
-        }
-        if (vis[i]==-1)
-            findLongesPalindrome(s, i, vis);
-    }
+    return right- left-1;
 }
 string longestPalindrome(string s) {
-    vector<int> vis(s.size(), -1);
-    findLongesPalindrome(s, 0, vis);
-    return longestPalind;
+    int n = s.size();
+    int best_start = 0;
+    int best_len =1;
+    for (int i=0; i<n-1; i++) {
+        int len1 = expand(s, i, i);
+        int len = expand(s, i, i+1);
+        int currMax = max(len1, len);
+        if (currMax>best_len) {
+            best_start = i - (currMax-1)/2;
+            best_len = currMax;
+        }
+    }
+    return s.substr(best_start, best_len);
 }
 };
