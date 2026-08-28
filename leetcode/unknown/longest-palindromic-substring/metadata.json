@@ -1,0 +1,20 @@
+{
+  "title": "longest-palindromic-substring",
+  "titleSlug": "longest-palindromic-substring",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-28T20:19:28.375Z",
+  "runtimeMs": 1392,
+  "memoryKb": 132915,
+  "totalCorrect": 144,
+  "totalTestcases": 144,
+  "helpType": "EDITORIAL",
+  "helpLabel": "Used editorial",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-28T20:47:08.011Z"
+}
