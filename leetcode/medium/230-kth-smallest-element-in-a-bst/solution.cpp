@@ -16,8 +16,10 @@ int findKthSmallest (TreeNode* root,int& k) {
     if (root==nullptr)return k;
     findKthSmallest(root->left, k);
     k--;
-    if (k==0)
+    if (k==0){
         answer = root->val;
+        return k;    
+    }
     findKthSmallest(root->right, k);
     return k;
 }
