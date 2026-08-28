@@ -11,19 +11,18 @@
  */
 class Solution {
 public:
-void func3(TreeNode* node, vector<int>& res) {
-    if (node==nullptr)return;
-    func3(node->left, res);
-    res.push_back(node->val);
-    func3(node->right, res);
+int answer = 0;
+int findKthSmallest (TreeNode* root,int& k) {
+    if (root==nullptr)return k;
+    findKthSmallest(root->left, k);
+    k--;
+    if (k==0)
+        answer = root->val;
+    findKthSmallest(root->right, k);
+    return k;
 }
-vector<int> inorderTraversal(TreeNode* root) {
-    vector<int> result;
-    func3(root, result);
-    return result;
-}
-    int kthSmallest(TreeNode* root, int k) {
-    vector<int> res = inorderTraversal(root);
-    return res[k-1];
+int kthSmallest(TreeNode* root, int k) {
+    findKthSmallest(root,  k);
+    return answer;
 }
 };

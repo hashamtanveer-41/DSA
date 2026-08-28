@@ -13,13 +13,13 @@
   "language": "cpp",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-08-28T18:50:34.491Z",
+  "submittedAt": "2026-08-28T19:26:19.883Z",
   "runtimeMs": 0,
-  "memoryKb": 25190,
+  "memoryKb": 25088,
   "totalCorrect": 94,
   "totalTestcases": 94,
   "helpType": "NONE",
   "helpLabel": "Solved solo",
   "focusSeconds": null,
-  "syncedAt": "2026-08-28T18:50:37.987Z"
+  "syncedAt": "2026-08-28T19:26:22.411Z"
 }
