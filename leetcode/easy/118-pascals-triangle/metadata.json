@@ -1,0 +1,23 @@
+{
+  "title": "Pascal's Triangle",
+  "titleSlug": "pascals-triangle",
+  "frontendQuestionId": "118",
+  "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-28T22:58:58.254Z",
+  "runtimeMs": 0,
+  "memoryKb": 10035,
+  "totalCorrect": 30,
+  "totalTestcases": 30,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-28T22:59:00.783Z"
+}
