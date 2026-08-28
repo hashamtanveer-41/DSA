@@ -1,0 +1,24 @@
+{
+  "title": "Minimum Path Sum",
+  "titleSlug": "minimum-path-sum",
+  "frontendQuestionId": "64",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-path-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-28T22:27:38.030Z",
+  "runtimeMs": 3,
+  "memoryKb": 18637,
+  "totalCorrect": 66,
+  "totalTestcases": 66,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-28T22:27:44.907Z"
+}
