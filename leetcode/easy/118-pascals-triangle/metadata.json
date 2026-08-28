@@ -16,8 +16,8 @@
   "memoryKb": 10035,
   "totalCorrect": 30,
   "totalTestcases": 30,
-  "helpType": "NONE",
-  "helpLabel": "Solved solo",
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
   "focusSeconds": null,
-  "syncedAt": "2026-08-28T22:59:00.783Z"
+  "syncedAt": "2026-08-28T22:58:59.428Z"
 }
