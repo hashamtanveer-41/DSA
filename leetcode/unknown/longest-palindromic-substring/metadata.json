@@ -8,13 +8,13 @@
   "language": "cpp",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-08-28T20:19:28.375Z",
-  "runtimeMs": 1392,
-  "memoryKb": 132915,
+  "submittedAt": "2026-08-28T20:47:03.507Z",
+  "runtimeMs": 7,
+  "memoryKb": 9626,
   "totalCorrect": 144,
   "totalTestcases": 144,
-  "helpType": "EDITORIAL",
-  "helpLabel": "Used editorial",
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
   "focusSeconds": null,
-  "syncedAt": "2026-08-28T20:47:08.011Z"
+  "syncedAt": "2026-08-28T20:47:08.008Z"
 }
