@@ -1,0 +1,26 @@
+{
+  "title": "Coin Change",
+  "titleSlug": "coin-change",
+  "frontendQuestionId": "322",
+  "leetcodeUrl": "https://leetcode.com/problems/coin-change/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Knapsack Problem",
+    "Complete Knapsack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T18:54:31.946Z",
+  "runtimeMs": 71,
+  "memoryKb": 92979,
+  "totalCorrect": 189,
+  "totalTestcases": 189,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T18:54:33.251Z"
+}
