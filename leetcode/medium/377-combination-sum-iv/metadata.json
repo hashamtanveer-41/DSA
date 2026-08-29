@@ -1,0 +1,23 @@
+{
+  "title": "Combination Sum IV",
+  "titleSlug": "combination-sum-iv",
+  "frontendQuestionId": "377",
+  "leetcodeUrl": "https://leetcode.com/problems/combination-sum-iv/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T20:46:08.654Z",
+  "runtimeMs": 4,
+  "memoryKb": 9421,
+  "totalCorrect": 18,
+  "totalTestcases": 18,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T20:46:12.207Z"
+}
