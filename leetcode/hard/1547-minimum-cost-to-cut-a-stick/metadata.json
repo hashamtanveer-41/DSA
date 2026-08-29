@@ -1,0 +1,24 @@
+{
+  "title": "Minimum Cost to Cut a Stick",
+  "titleSlug": "minimum-cost-to-cut-a-stick",
+  "frontendQuestionId": "1547",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-29T20:50:42.903Z",
+  "runtimeMs": 15,
+  "memoryKb": 11571,
+  "totalCorrect": 101,
+  "totalTestcases": 101,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-29T20:50:46.110Z"
+}
