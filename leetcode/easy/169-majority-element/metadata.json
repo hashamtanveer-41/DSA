@@ -1,0 +1,22 @@
+{
+  "title": "Majority Element",
+  "titleSlug": "majority-element",
+  "frontendQuestionId": "169",
+  "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Divide and Conquer",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2065392310",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:54:18.397Z",
+  "backfilledAt": "2026-08-30T13:54:18.397Z"
+}

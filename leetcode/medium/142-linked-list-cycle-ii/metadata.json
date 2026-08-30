@@ -1,0 +1,20 @@
+{
+  "title": "Linked List Cycle II",
+  "titleSlug": "linked-list-cycle-ii",
+  "frontendQuestionId": "142",
+  "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1986999627",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:54:15.940Z",
+  "backfilledAt": "2026-08-30T13:54:15.940Z"
+}

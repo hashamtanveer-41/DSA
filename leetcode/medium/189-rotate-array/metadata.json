@@ -1,0 +1,19 @@
+{
+  "title": "Rotate Array",
+  "titleSlug": "rotate-array",
+  "frontendQuestionId": "189",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2069136305",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:54:21.572Z",
+  "backfilledAt": "2026-08-30T13:54:21.572Z"
+}

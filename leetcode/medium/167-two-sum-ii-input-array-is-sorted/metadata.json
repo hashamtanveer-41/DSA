@@ -1,0 +1,19 @@
+{
+  "title": "Two Sum II - Input Array Is Sorted",
+  "titleSlug": "two-sum-ii-input-array-is-sorted",
+  "frontendQuestionId": "167",
+  "leetcodeUrl": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1968815492",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:54:17.067Z",
+  "backfilledAt": "2026-08-30T13:54:17.067Z"
+}
