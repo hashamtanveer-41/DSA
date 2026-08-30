@@ -1,0 +1,21 @@
+{
+  "title": "Maximum Sum Circular Subarray",
+  "titleSlug": "maximum-sum-circular-subarray",
+  "frontendQuestionId": "954",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming",
+    "Queue",
+    "Monotonic Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1994385868",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:12.071Z",
+  "backfilledAt": "2026-08-30T14:10:12.071Z"
+}
