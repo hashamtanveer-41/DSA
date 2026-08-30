@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/minimum-total-price-after-applying-discounts/">4363. Minimum Total Price After Applying Discounts</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

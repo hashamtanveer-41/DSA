@@ -1,0 +1,18 @@
+{
+  "title": "Elevator Requests I",
+  "titleSlug": "elevator-requests-i",
+  "frontendQuestionId": "4384",
+  "leetcodeUrl": "https://leetcode.com/problems/elevator-requests-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2108262185",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:41:33.471Z",
+  "backfilledAt": "2026-08-30T13:41:33.471Z"
+}

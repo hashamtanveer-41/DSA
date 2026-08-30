@@ -1,0 +1,20 @@
+{
+  "title": "Minimum Total Price After Applying Discounts",
+  "titleSlug": "minimum-total-price-after-applying-discounts",
+  "frontendQuestionId": "4363",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100844198",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:41:31.911Z",
+  "backfilledAt": "2026-08-30T13:41:31.911Z"
+}

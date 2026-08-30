@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/weighted-sum-of-a-tree/">4352. Weighted Sum of a Tree</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/nearest-available-drone/">4378. Nearest Available Drone</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>
