@@ -1,0 +1,21 @@
+{
+  "title": "Merge k Sorted Lists",
+  "titleSlug": "merge-k-sorted-lists",
+  "frontendQuestionId": "23",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+  "difficulty": "Hard",
+  "topics": [
+    "Linked List",
+    "Divide and Conquer",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Tournament Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2082060474",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:40.884Z",
+  "backfilledAt": "2026-08-30T14:06:40.884Z"
+}
