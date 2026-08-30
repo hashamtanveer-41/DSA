@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Number of Balloons",
+  "titleSlug": "maximum-number-of-balloons",
+  "frontendQuestionId": "1297",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2027999331",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:39:24.912Z",
+  "backfilledAt": "2026-08-30T13:39:24.912Z"
+}

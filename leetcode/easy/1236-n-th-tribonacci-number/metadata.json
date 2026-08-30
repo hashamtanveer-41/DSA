@@ -1,0 +1,19 @@
+{
+  "title": "N-th Tribonacci Number",
+  "titleSlug": "n-th-tribonacci-number",
+  "frontendQuestionId": "1236",
+  "leetcodeUrl": "https://leetcode.com/problems/n-th-tribonacci-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2118779964",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:39:21.353Z",
+  "backfilledAt": "2026-08-30T13:39:21.353Z"
+}
