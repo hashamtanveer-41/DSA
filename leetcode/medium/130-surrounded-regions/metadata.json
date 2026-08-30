@@ -1,0 +1,21 @@
+{
+  "title": "Surrounded Regions",
+  "titleSlug": "surrounded-regions",
+  "frontendQuestionId": "130",
+  "leetcodeUrl": "https://leetcode.com/problems/surrounded-regions/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2091863104",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:40.611Z",
+  "backfilledAt": "2026-08-30T14:07:40.611Z"
+}
