@@ -1,0 +1,18 @@
+{
+  "title": "Search Insert Position",
+  "titleSlug": "search-insert-position",
+  "frontendQuestionId": "35",
+  "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1960941085",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:44:26.483Z",
+  "backfilledAt": "2026-08-30T13:44:26.483Z"
+}

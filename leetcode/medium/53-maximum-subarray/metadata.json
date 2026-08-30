@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Subarray",
+  "titleSlug": "maximum-subarray",
+  "frontendQuestionId": "53",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1990454029",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:44:32.458Z",
+  "backfilledAt": "2026-08-30T13:44:32.458Z"
+}

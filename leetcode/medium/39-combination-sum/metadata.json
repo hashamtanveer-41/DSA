@@ -1,0 +1,18 @@
+{
+  "title": "Combination Sum",
+  "titleSlug": "combination-sum",
+  "frontendQuestionId": "39",
+  "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2066601552",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:44:28.050Z",
+  "backfilledAt": "2026-08-30T13:44:28.050Z"
+}
