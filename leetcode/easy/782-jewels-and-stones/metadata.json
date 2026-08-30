@@ -1,0 +1,18 @@
+{
+  "title": "Jewels and Stones",
+  "titleSlug": "jewels-and-stones",
+  "frontendQuestionId": "782",
+  "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2046210772",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:56:13.088Z",
+  "backfilledAt": "2026-08-30T13:56:13.088Z"
+}

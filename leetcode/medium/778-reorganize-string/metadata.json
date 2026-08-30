@@ -1,0 +1,22 @@
+{
+  "title": "Reorganize String",
+  "titleSlug": "reorganize-string",
+  "frontendQuestionId": "778",
+  "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2051637044",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:56:09.810Z",
+  "backfilledAt": "2026-08-30T13:56:09.811Z"
+}
