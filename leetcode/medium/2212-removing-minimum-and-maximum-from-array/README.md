@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/removing-minimum-and-maximum-from-array/">2212. Removing Minimum and Maximum From Array</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

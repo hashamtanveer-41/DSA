@@ -1,0 +1,18 @@
+{
+  "title": "Removing Minimum and Maximum From Array",
+  "titleSlug": "removing-minimum-and-maximum-from-array",
+  "frontendQuestionId": "2212",
+  "leetcodeUrl": "https://leetcode.com/problems/removing-minimum-and-maximum-from-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2124854506",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:40:13.955Z",
+  "backfilledAt": "2026-08-30T13:40:13.955Z"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Time Needed to Buy Tickets",
+  "titleSlug": "time-needed-to-buy-tickets",
+  "frontendQuestionId": "2195",
+  "leetcodeUrl": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Queue",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2089000528",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:40:12.480Z",
+  "backfilledAt": "2026-08-30T13:40:12.480Z"
+}

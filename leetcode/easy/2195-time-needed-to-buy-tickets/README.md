@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/time-needed-to-buy-tickets/">2195. Time Needed to Buy Tickets</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

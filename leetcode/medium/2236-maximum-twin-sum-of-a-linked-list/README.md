@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/">2236. Maximum Twin Sum of a Linked List</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>
