@@ -1,0 +1,20 @@
+{
+  "title": "Permutation in String",
+  "titleSlug": "permutation-in-string",
+  "frontendQuestionId": "567",
+  "leetcodeUrl": "https://leetcode.com/problems/permutation-in-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2073901189",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:28.549Z",
+  "backfilledAt": "2026-08-30T14:09:28.549Z"
+}
