@@ -11,9 +11,14 @@
   ],
   "language": "cpp",
   "verdict": "Accepted",
-  "submissionId": "2114453079",
-  "helpType": "NONE",
-  "helpLabel": "Solved solo",
-  "syncedAt": "2026-08-30T13:35:45.395Z",
-  "backfilledAt": "2026-08-30T13:35:45.395Z"
+  "submissionId": null,
+  "submittedAt": "2026-08-30T16:47:19.295Z",
+  "runtimeMs": 0,
+  "memoryKb": 53760,
+  "totalCorrect": 178,
+  "totalTestcases": 178,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T16:47:37.706Z"
 }
