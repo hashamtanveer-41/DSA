@@ -1,0 +1,22 @@
+{
+  "title": "Cheapest Flights Within K Stops",
+  "titleSlug": "cheapest-flights-within-k-stops",
+  "frontendQuestionId": "803",
+  "leetcodeUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+  "difficulty": "Medium",
+  "topics": [
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2099629329",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:45.342Z",
+  "backfilledAt": "2026-08-30T14:09:45.342Z"
+}

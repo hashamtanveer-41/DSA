@@ -1,0 +1,19 @@
+{
+  "title": "Daily Temperatures",
+  "titleSlug": "daily-temperatures",
+  "frontendQuestionId": "739",
+  "leetcodeUrl": "https://leetcode.com/problems/daily-temperatures/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Stack",
+    "Monotonic Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2022681712",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:42.842Z",
+  "backfilledAt": "2026-08-30T14:09:42.842Z"
+}

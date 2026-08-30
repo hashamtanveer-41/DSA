@@ -1,0 +1,22 @@
+{
+  "title": "Network Delay Time",
+  "titleSlug": "network-delay-time",
+  "frontendQuestionId": "744",
+  "leetcodeUrl": "https://leetcode.com/problems/network-delay-time/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path",
+    "Dijkstra's Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2095876118",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:44.123Z",
+  "backfilledAt": "2026-08-30T14:09:44.123Z"
+}
