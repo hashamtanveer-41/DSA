@@ -1,0 +1,18 @@
+{
+  "title": "String Compression",
+  "titleSlug": "string-compression",
+  "frontendQuestionId": "443",
+  "leetcodeUrl": "https://leetcode.com/problems/string-compression/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2113237953",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:02.988Z",
+  "backfilledAt": "2026-08-30T13:47:02.988Z"
+}

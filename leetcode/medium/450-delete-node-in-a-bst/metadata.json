@@ -1,0 +1,19 @@
+{
+  "title": "Delete Node in a BST",
+  "titleSlug": "delete-node-in-a-bst",
+  "frontendQuestionId": "450",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-bst/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2116381616",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:04.497Z",
+  "backfilledAt": "2026-08-30T13:47:04.497Z"
+}

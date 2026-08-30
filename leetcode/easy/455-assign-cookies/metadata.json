@@ -1,0 +1,21 @@
+{
+  "title": "Assign Cookies",
+  "titleSlug": "assign-cookies",
+  "frontendQuestionId": "455",
+  "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Quicksort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2114450908",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:08.314Z",
+  "backfilledAt": "2026-08-30T13:47:08.314Z"
+}

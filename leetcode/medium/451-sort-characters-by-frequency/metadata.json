@@ -1,0 +1,22 @@
+{
+  "title": "Sort Characters By Frequency",
+  "titleSlug": "sort-characters-by-frequency",
+  "frontendQuestionId": "451",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Bucket Sort",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2067770359",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:05.752Z",
+  "backfilledAt": "2026-08-30T13:47:05.752Z"
+}

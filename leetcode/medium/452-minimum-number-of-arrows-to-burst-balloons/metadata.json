@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Number of Arrows to Burst Balloons",
+  "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+  "frontendQuestionId": "452",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2120181723",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:06.929Z",
+  "backfilledAt": "2026-08-30T13:47:06.929Z"
+}
