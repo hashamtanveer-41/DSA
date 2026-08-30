@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-average-subarray-i/">643. Maximum Average Subarray I</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

@@ -1,0 +1,18 @@
+{
+  "title": "Kth Smallest Number in Multiplication Table",
+  "titleSlug": "kth-smallest-number-in-multiplication-table",
+  "frontendQuestionId": "668",
+  "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/",
+  "difficulty": "Hard",
+  "topics": [
+    "Math",
+    "Binary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2046778658",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:27:40.653Z",
+  "backfilledAt": "2026-08-30T13:27:40.653Z"
+}

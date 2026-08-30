@@ -1,0 +1,19 @@
+{
+  "title": "Dota2 Senate",
+  "titleSlug": "dota2-senate",
+  "frontendQuestionId": "649",
+  "leetcodeUrl": "https://leetcode.com/problems/dota2-senate/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Greedy",
+    "Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2090334883",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:27:38.617Z",
+  "backfilledAt": "2026-08-30T13:27:38.617Z"
+}

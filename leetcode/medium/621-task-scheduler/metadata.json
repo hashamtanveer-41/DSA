@@ -1,0 +1,22 @@
+{
+  "title": "Task Scheduler",
+  "titleSlug": "task-scheduler",
+  "frontendQuestionId": "621",
+  "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2057359075",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:27:36.944Z",
+  "backfilledAt": "2026-08-30T13:27:36.944Z"
+}

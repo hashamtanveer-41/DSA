@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/">668. Kth Smallest Number in Multiplication Table</a></h2><h3>Hard</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>
