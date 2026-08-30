@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/check-if-the-sentence-is-pangram/">1960. Check if the Sentence Is Pangram</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

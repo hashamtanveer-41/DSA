@@ -1,0 +1,19 @@
+{
+  "title": "Largest Merge Of Two Strings",
+  "titleSlug": "largest-merge-of-two-strings",
+  "frontendQuestionId": "1880",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-merge-of-two-strings/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2071046759",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:29:25.738Z",
+  "backfilledAt": "2026-08-30T13:29:25.738Z"
+}

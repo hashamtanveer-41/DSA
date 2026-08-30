@@ -1,0 +1,18 @@
+{
+  "title": "Check if the Sentence Is Pangram",
+  "titleSlug": "check-if-the-sentence-is-pangram",
+  "frontendQuestionId": "1960",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2064336555",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:29:28.162Z",
+  "backfilledAt": "2026-08-30T13:29:28.162Z"
+}

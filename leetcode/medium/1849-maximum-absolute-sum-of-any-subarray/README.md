@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/">1849. Maximum Absolute Sum of Any Subarray</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>
