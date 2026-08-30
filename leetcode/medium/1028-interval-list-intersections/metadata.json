@@ -1,0 +1,19 @@
+{
+  "title": "Interval List Intersections",
+  "titleSlug": "interval-list-intersections",
+  "frontendQuestionId": "1028",
+  "leetcodeUrl": "https://leetcode.com/problems/interval-list-intersections/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sweep Line"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2014916497",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:20.587Z",
+  "backfilledAt": "2026-08-30T14:10:20.587Z"
+}

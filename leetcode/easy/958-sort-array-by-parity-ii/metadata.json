@@ -1,0 +1,19 @@
+{
+  "title": "Sort Array By Parity II",
+  "titleSlug": "sort-array-by-parity-ii",
+  "frontendQuestionId": "958",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-array-by-parity-ii/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2070428208",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:19.372Z",
+  "backfilledAt": "2026-08-30T14:10:19.372Z"
+}

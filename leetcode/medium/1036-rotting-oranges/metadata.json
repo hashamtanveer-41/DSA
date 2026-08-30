@@ -1,0 +1,19 @@
+{
+  "title": "Rotting Oranges",
+  "titleSlug": "rotting-oranges",
+  "frontendQuestionId": "1036",
+  "leetcodeUrl": "https://leetcode.com/problems/rotting-oranges/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2086669048",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:21.820Z",
+  "backfilledAt": "2026-08-30T14:10:21.820Z"
+}
