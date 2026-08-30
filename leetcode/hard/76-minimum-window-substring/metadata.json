@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Window Substring",
+  "titleSlug": "minimum-window-substring",
+  "frontendQuestionId": "76",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-window-substring/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1985294489",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:24:51.056Z",
+  "backfilledAt": "2026-08-30T13:24:51.056Z"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Edit Distance",
+  "titleSlug": "edit-distance",
+  "frontendQuestionId": "72",
+  "leetcodeUrl": "https://leetcode.com/problems/edit-distance/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2118992823",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:24:48.951Z",
+  "backfilledAt": "2026-08-30T13:24:48.951Z"
+}

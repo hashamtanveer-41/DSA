@@ -1,0 +1,19 @@
+{
+  "title": "Climbing Stairs",
+  "titleSlug": "climbing-stairs",
+  "frontendQuestionId": "70",
+  "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2105997706",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:24:48.079Z",
+  "backfilledAt": "2026-08-30T13:24:48.079Z"
+}
