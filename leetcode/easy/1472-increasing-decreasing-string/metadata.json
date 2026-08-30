@@ -1,0 +1,19 @@
+{
+  "title": "Increasing Decreasing String",
+  "titleSlug": "increasing-decreasing-string",
+  "frontendQuestionId": "1472",
+  "leetcodeUrl": "https://leetcode.com/problems/increasing-decreasing-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2065340954",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:57:03.778Z",
+  "backfilledAt": "2026-08-30T13:57:03.778Z"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Kids With the Greatest Number of Candies",
+  "titleSlug": "kids-with-the-greatest-number-of-candies",
+  "frontendQuestionId": "1528",
+  "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2112637229",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:57:06.748Z",
+  "backfilledAt": "2026-08-30T13:57:06.748Z"
+}

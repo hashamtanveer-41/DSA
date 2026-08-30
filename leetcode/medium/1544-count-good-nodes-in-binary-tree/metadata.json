@@ -1,0 +1,20 @@
+{
+  "title": "Count Good Nodes in Binary Tree",
+  "titleSlug": "count-good-nodes-in-binary-tree",
+  "frontendQuestionId": "1544",
+  "leetcodeUrl": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115535754",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:57:07.975Z",
+  "backfilledAt": "2026-08-30T13:57:07.975Z"
+}
