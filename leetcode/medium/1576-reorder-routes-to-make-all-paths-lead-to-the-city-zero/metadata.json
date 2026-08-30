@@ -1,0 +1,19 @@
+{
+  "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+  "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+  "frontendQuestionId": "1576",
+  "leetcodeUrl": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2116656248",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:48:59.316Z",
+  "backfilledAt": "2026-08-30T13:48:59.316Z"
+}

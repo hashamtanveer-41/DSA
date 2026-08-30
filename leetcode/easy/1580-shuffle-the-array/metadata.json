@@ -1,0 +1,17 @@
+{
+  "title": "Shuffle the Array",
+  "titleSlug": "shuffle-the-array",
+  "frontendQuestionId": "1580",
+  "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2077388660",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:49:01.160Z",
+  "backfilledAt": "2026-08-30T13:49:01.160Z"
+}
