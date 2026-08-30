@@ -1,0 +1,22 @@
+{
+  "title": "Count Subarrays With Even Odd Ratio I",
+  "titleSlug": "count-subarrays-with-even-odd-ratio-i",
+  "frontendQuestionId": "4323",
+  "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Binary Indexed Tree",
+    "Segment Tree",
+    "Merge Sort",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2093243912",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:58:36.949Z",
+  "backfilledAt": "2026-08-30T13:58:36.949Z"
+}
