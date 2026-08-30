@@ -1,0 +1,18 @@
+{
+  "title": "Reverse Vowels of a String",
+  "titleSlug": "reverse-vowels-of-a-string",
+  "frontendQuestionId": "345",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2070438476",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:37:33.258Z",
+  "backfilledAt": "2026-08-30T13:37:33.258Z"
+}
