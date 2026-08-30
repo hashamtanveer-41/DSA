@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Flips to Make a OR b Equal to c",
+  "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+  "frontendQuestionId": "1441",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/",
+  "difficulty": "Medium",
+  "topics": [
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2119010099",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:45.077Z",
+  "backfilledAt": "2026-08-30T14:10:45.077Z"
+}

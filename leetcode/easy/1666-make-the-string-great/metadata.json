@@ -1,0 +1,18 @@
+{
+  "title": "Make The String Great",
+  "titleSlug": "make-the-string-great",
+  "frontendQuestionId": "1666",
+  "leetcodeUrl": "https://leetcode.com/problems/make-the-string-great/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2076216246",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:47.443Z",
+  "backfilledAt": "2026-08-30T14:10:47.443Z"
+}
