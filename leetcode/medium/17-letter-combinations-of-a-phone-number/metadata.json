@@ -1,0 +1,19 @@
+{
+  "title": "Letter Combinations of a Phone Number",
+  "titleSlug": "letter-combinations-of-a-phone-number",
+  "frontendQuestionId": "17",
+  "leetcodeUrl": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Backtracking"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2064325545",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:25.405Z",
+  "backfilledAt": "2026-08-30T14:06:25.405Z"
+}
