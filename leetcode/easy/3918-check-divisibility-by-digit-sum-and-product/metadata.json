@@ -1,0 +1,17 @@
+{
+  "title": "Check Divisibility by Digit Sum and Product",
+  "titleSlug": "check-divisibility-by-digit-sum-and-product",
+  "frontendQuestionId": "3918",
+  "leetcodeUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2116518438",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:30:17.309Z",
+  "backfilledAt": "2026-08-30T13:30:17.312Z"
+}

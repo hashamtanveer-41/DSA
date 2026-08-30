@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/smallest-missing-multiple-of-k/">4080. Smallest Missing Multiple of K</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

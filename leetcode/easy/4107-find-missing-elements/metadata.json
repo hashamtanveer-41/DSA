@@ -1,0 +1,19 @@
+{
+  "title": "Find Missing Elements",
+  "titleSlug": "find-missing-elements",
+  "frontendQuestionId": "4107",
+  "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2094593344",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:30:19.263Z",
+  "backfilledAt": "2026-08-30T13:30:19.263Z"
+}
