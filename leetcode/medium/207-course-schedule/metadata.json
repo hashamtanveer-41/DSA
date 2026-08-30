@@ -1,0 +1,26 @@
+{
+  "title": "Course Schedule",
+  "titleSlug": "course-schedule",
+  "frontendQuestionId": "207",
+  "leetcodeUrl": "https://leetcode.com/problems/course-schedule/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Topological Sort",
+    "Directed Acyclic Graph"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-08-30T12:00:40.486Z",
+  "runtimeMs": 4,
+  "memoryKb": 19763,
+  "totalCorrect": 54,
+  "totalTestcases": 54,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-08-30T12:00:46.566Z"
+}
