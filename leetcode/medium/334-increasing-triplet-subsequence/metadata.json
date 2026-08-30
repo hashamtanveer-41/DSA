@@ -1,0 +1,19 @@
+{
+  "title": "Increasing Triplet Subsequence",
+  "titleSlug": "increasing-triplet-subsequence",
+  "frontendQuestionId": "334",
+  "leetcodeUrl": "https://leetcode.com/problems/increasing-triplet-subsequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Longest Increasing Subsequence"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2113174840",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:26:41.899Z",
+  "backfilledAt": "2026-08-30T13:26:41.899Z"
+}

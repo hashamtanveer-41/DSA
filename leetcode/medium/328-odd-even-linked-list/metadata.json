@@ -1,0 +1,17 @@
+{
+  "title": "Odd Even Linked List",
+  "titleSlug": "odd-even-linked-list",
+  "frontendQuestionId": "328",
+  "leetcodeUrl": "https://leetcode.com/problems/odd-even-linked-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115519733",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:26:41.301Z",
+  "backfilledAt": "2026-08-30T13:26:41.302Z"
+}

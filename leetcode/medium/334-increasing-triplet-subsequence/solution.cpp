@@ -1,0 +1,16 @@
+class Solution {
+public:
+    bool increasingTriplet(vector<int>& nums) {
+       int n = nums.size();
+    int first_min = INT_MAX, second_min= INT_MAX;
+    for (int i=0; i<n; i++) {
+        if (nums[i]<=first_min)
+            first_min = nums[i];
+        else if (nums[i]<=second_min)
+            second_min = nums[i];
+        else
+            return true;
+    }
+    return false;
+    }
+};
