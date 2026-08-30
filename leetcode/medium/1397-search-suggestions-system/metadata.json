@@ -1,0 +1,22 @@
+{
+  "title": "Search Suggestions System",
+  "titleSlug": "search-suggestions-system",
+  "frontendQuestionId": "1397",
+  "leetcodeUrl": "https://leetcode.com/problems/search-suggestions-system/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Trie",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2119931272",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:38.197Z",
+  "backfilledAt": "2026-08-30T14:10:38.197Z"
+}

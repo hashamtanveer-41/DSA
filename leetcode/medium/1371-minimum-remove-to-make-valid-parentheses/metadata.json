@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Remove to Make Valid Parentheses",
+  "titleSlug": "minimum-remove-to-make-valid-parentheses",
+  "frontendQuestionId": "1371",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2076393258",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:36.238Z",
+  "backfilledAt": "2026-08-30T14:10:36.238Z"
+}
