@@ -1,0 +1,19 @@
+{
+  "title": "Contains Duplicate II",
+  "titleSlug": "contains-duplicate-ii",
+  "frontendQuestionId": "219",
+  "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate-ii/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2073520668",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:46:11.994Z",
+  "backfilledAt": "2026-08-30T13:46:11.994Z"
+}

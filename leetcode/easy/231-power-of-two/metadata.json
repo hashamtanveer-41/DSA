@@ -1,0 +1,19 @@
+{
+  "title": "Power of Two",
+  "titleSlug": "power-of-two",
+  "frontendQuestionId": "231",
+  "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Bit Manipulation",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2083966008",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:46:16.214Z",
+  "backfilledAt": "2026-08-30T13:46:16.214Z"
+}

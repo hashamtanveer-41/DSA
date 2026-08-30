@@ -1,0 +1,21 @@
+{
+  "title": "Majority Element II",
+  "titleSlug": "majority-element-ii",
+  "frontendQuestionId": "229",
+  "leetcodeUrl": "https://leetcode.com/problems/majority-element-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting",
+    "Counting",
+    "Boyer–Moore Majority Vote Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2065395799",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:46:14.744Z",
+  "backfilledAt": "2026-08-30T13:46:14.745Z"
+}

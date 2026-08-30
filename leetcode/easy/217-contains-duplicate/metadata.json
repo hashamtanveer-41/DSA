@@ -1,0 +1,19 @@
+{
+  "title": "Contains Duplicate",
+  "titleSlug": "contains-duplicate",
+  "frontendQuestionId": "217",
+  "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1954257709",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:46:10.559Z",
+  "backfilledAt": "2026-08-30T13:46:10.559Z"
+}

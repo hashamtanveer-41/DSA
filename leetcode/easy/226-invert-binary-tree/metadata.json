@@ -1,0 +1,20 @@
+{
+  "title": "Invert Binary Tree",
+  "titleSlug": "invert-binary-tree",
+  "frontendQuestionId": "226",
+  "leetcodeUrl": "https://leetcode.com/problems/invert-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072815557",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:46:13.323Z",
+  "backfilledAt": "2026-08-30T13:46:13.323Z"
+}
