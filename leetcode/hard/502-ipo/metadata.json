@@ -1,0 +1,20 @@
+{
+  "title": "IPO",
+  "titleSlug": "ipo",
+  "frontendQuestionId": "502",
+  "leetcodeUrl": "https://leetcode.com/problems/ipo/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2055132339",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:11.346Z",
+  "backfilledAt": "2026-08-30T14:09:11.346Z"
+}

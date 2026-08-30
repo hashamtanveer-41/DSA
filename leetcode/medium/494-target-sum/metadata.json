@@ -1,0 +1,21 @@
+{
+  "title": "Target Sum",
+  "titleSlug": "target-sum",
+  "frontendQuestionId": "494",
+  "leetcodeUrl": "https://leetcode.com/problems/target-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Backtracking",
+    "Knapsack Problem",
+    "0-1 Knapsack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2108254120",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:08.929Z",
+  "backfilledAt": "2026-08-30T14:09:08.929Z"
+}
