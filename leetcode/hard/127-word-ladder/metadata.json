@@ -1,0 +1,20 @@
+{
+  "title": "Word Ladder",
+  "titleSlug": "word-ladder",
+  "frontendQuestionId": "127",
+  "leetcodeUrl": "https://leetcode.com/problems/word-ladder/",
+  "difficulty": "Hard",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Breadth-First Search",
+    "Bidirectional Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100833517",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:45:20.868Z",
+  "backfilledAt": "2026-08-30T13:45:20.868Z"
+}

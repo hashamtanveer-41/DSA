@@ -1,0 +1,18 @@
+{
+  "title": "Valid Palindrome",
+  "titleSlug": "valid-palindrome",
+  "frontendQuestionId": "125",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2069115535",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:45:19.778Z",
+  "backfilledAt": "2026-08-30T13:45:19.778Z"
+}
