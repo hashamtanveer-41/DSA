@@ -1,0 +1,18 @@
+{
+  "title": "Find Pivot Index",
+  "titleSlug": "find-pivot-index",
+  "frontendQuestionId": "724",
+  "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1996845177",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:34.901Z",
+  "backfilledAt": "2026-08-30T14:09:34.901Z"
+}
