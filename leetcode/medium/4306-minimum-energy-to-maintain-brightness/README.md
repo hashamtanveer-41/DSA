@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/minimum-energy-to-maintain-brightness/">4306. Minimum Energy to Maintain Brightness</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

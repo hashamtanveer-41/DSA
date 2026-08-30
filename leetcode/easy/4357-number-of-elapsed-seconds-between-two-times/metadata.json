@@ -1,0 +1,18 @@
+{
+  "title": "Number of Elapsed Seconds Between Two Times",
+  "titleSlug": "number-of-elapsed-seconds-between-two-times",
+  "frontendQuestionId": "4357",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100882074",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:41:12.246Z",
+  "backfilledAt": "2026-08-30T13:41:12.246Z"
+}

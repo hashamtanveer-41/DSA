@@ -1,0 +1,18 @@
+{
+  "title": "Check Good Integer",
+  "titleSlug": "check-good-integer",
+  "frontendQuestionId": "4332",
+  "leetcodeUrl": "https://leetcode.com/problems/check-good-integer/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2032400376",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:41:10.122Z",
+  "backfilledAt": "2026-08-30T13:41:10.122Z"
+}
