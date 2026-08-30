@@ -1,0 +1,18 @@
+{
+  "title": "Even Number of Knight Moves",
+  "titleSlug": "even-number-of-knight-moves",
+  "frontendQuestionId": "4369",
+  "leetcodeUrl": "https://leetcode.com/problems/even-number-of-knight-moves/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100868618",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:17.095Z",
+  "backfilledAt": "2026-08-30T14:12:17.095Z"
+}

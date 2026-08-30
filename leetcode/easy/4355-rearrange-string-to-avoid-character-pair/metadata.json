@@ -1,0 +1,19 @@
+{
+  "title": "Rearrange String to Avoid Character Pair",
+  "titleSlug": "rearrange-string-to-avoid-character-pair",
+  "frontendQuestionId": "4355",
+  "leetcodeUrl": "https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2102101716",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:14.818Z",
+  "backfilledAt": "2026-08-30T14:12:14.818Z"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Value of an Alternating Sequence",
+  "titleSlug": "maximum-value-of-an-alternating-sequence",
+  "frontendQuestionId": "4364",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-value-of-an-alternating-sequence/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2102114871",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:15.748Z",
+  "backfilledAt": "2026-08-30T14:12:15.748Z"
+}
