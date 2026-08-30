@@ -1,0 +1,19 @@
+{
+  "title": "Valid Anagram",
+  "titleSlug": "valid-anagram",
+  "frontendQuestionId": "242",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1954264056",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:41.175Z",
+  "backfilledAt": "2026-08-30T14:08:41.175Z"
+}

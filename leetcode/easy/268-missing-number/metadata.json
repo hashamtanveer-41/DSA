@@ -1,0 +1,22 @@
+{
+  "title": "Missing Number",
+  "titleSlug": "missing-number",
+  "frontendQuestionId": "268",
+  "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2064274841",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:42.361Z",
+  "backfilledAt": "2026-08-30T14:08:42.361Z"
+}
