@@ -1,0 +1,19 @@
+{
+  "title": "Angles of a Triangle",
+  "titleSlug": "angles-of-a-triangle",
+  "frontendQuestionId": "4266",
+  "leetcodeUrl": "https://leetcode.com/problems/angles-of-a-triangle/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Geometry"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2094609131",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:06.998Z",
+  "backfilledAt": "2026-08-30T14:12:06.998Z"
+}

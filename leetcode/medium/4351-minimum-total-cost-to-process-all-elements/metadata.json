@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Total Cost to Process All Elements",
+  "titleSlug": "minimum-total-cost-to-process-all-elements",
+  "frontendQuestionId": "4351",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-total-cost-to-process-all-elements/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2110710380",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:09.043Z",
+  "backfilledAt": "2026-08-30T14:12:09.043Z"
+}
