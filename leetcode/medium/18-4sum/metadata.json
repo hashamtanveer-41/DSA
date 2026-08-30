@@ -1,0 +1,19 @@
+{
+  "title": "4Sum",
+  "titleSlug": "4sum",
+  "frontendQuestionId": "18",
+  "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2079989216",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:31.506Z",
+  "backfilledAt": "2026-08-30T14:06:31.506Z"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Valid Parentheses",
+  "titleSlug": "valid-parentheses",
+  "frontendQuestionId": "20",
+  "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2019565710",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:33.712Z",
+  "backfilledAt": "2026-08-30T14:06:33.712Z"
+}
