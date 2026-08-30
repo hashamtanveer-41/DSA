@@ -1,0 +1,20 @@
+{
+  "title": "Symmetric Tree",
+  "titleSlug": "symmetric-tree",
+  "frontendQuestionId": "101",
+  "leetcodeUrl": "https://leetcode.com/problems/symmetric-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072810497",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:05.180Z",
+  "backfilledAt": "2026-08-30T14:07:05.181Z"
+}

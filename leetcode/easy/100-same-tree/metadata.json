@@ -1,0 +1,20 @@
+{
+  "title": "Same Tree",
+  "titleSlug": "same-tree",
+  "frontendQuestionId": "100",
+  "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2071531996",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:04.053Z",
+  "backfilledAt": "2026-08-30T14:07:04.053Z"
+}
