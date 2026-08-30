@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights/">4375. Minimize the Maximum Waiting Time at Synchronized Traffic Lights</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

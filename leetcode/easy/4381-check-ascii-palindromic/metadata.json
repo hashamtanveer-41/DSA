@@ -1,0 +1,15 @@
+{
+  "title": "Check ASCII Palindromic",
+  "titleSlug": "check-ascii-palindromic",
+  "frontendQuestionId": "4381",
+  "leetcodeUrl": "https://leetcode.com/problems/check-ascii-palindromic/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2117790139",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:31:16.495Z",
+  "backfilledAt": "2026-08-30T13:31:16.495Z"
+}
