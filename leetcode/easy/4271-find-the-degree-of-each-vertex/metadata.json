@@ -1,0 +1,19 @@
+{
+  "title": "Find the Degree of Each Vertex",
+  "titleSlug": "find-the-degree-of-each-vertex",
+  "frontendQuestionId": "4271",
+  "leetcodeUrl": "https://leetcode.com/problems/find-the-degree-of-each-vertex/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Graph Theory",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2094598146",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:12:01.765Z",
+  "backfilledAt": "2026-08-30T14:12:01.765Z"
+}
