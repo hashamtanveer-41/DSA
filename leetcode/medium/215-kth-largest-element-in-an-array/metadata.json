@@ -1,0 +1,21 @@
+{
+  "title": "Kth Largest Element in an Array",
+  "titleSlug": "kth-largest-element-in-an-array",
+  "frontendQuestionId": "215",
+  "leetcodeUrl": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Quickselect"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2048175855",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:12.047Z",
+  "backfilledAt": "2026-08-30T14:08:12.047Z"
+}

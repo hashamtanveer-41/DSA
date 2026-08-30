@@ -1,0 +1,20 @@
+{
+  "title": "Palindrome Linked List",
+  "titleSlug": "palindrome-linked-list",
+  "frontendQuestionId": "234",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+  "difficulty": "Easy",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Stack",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2074643918",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:14.261Z",
+  "backfilledAt": "2026-08-30T14:08:14.261Z"
+}
