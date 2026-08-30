@@ -1,0 +1,20 @@
+{
+  "title": "Path Sum",
+  "titleSlug": "path-sum",
+  "frontendQuestionId": "112",
+  "leetcodeUrl": "https://leetcode.com/problems/path-sum/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2078758032",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:27.712Z",
+  "backfilledAt": "2026-08-30T14:07:27.712Z"
+}

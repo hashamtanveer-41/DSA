@@ -1,0 +1,20 @@
+{
+  "title": "Minimum Depth of Binary Tree",
+  "titleSlug": "minimum-depth-of-binary-tree",
+  "frontendQuestionId": "111",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2085327148",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:26.582Z",
+  "backfilledAt": "2026-08-30T14:07:26.582Z"
+}
