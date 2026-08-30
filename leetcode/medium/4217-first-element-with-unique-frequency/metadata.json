@@ -1,0 +1,19 @@
+{
+  "title": "First Element with Unique Frequency",
+  "titleSlug": "first-element-with-unique-frequency",
+  "frontendQuestionId": "4217",
+  "leetcodeUrl": "https://leetcode.com/problems/first-element-with-unique-frequency/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2097279585",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:53.291Z",
+  "backfilledAt": "2026-08-30T14:11:53.291Z"
+}
