@@ -1,0 +1,19 @@
+{
+  "title": "Merge Sorted Array",
+  "titleSlug": "merge-sorted-array",
+  "frontendQuestionId": "88",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2071098857",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:53:26.782Z",
+  "backfilledAt": "2026-08-30T13:53:26.782Z"
+}

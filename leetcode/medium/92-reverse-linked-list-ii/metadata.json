@@ -1,0 +1,17 @@
+{
+  "title": "Reverse Linked List II",
+  "titleSlug": "reverse-linked-list-ii",
+  "frontendQuestionId": "92",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2031240893",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:53:28.066Z",
+  "backfilledAt": "2026-08-30T13:53:28.066Z"
+}
