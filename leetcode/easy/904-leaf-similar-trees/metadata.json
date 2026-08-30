@@ -1,0 +1,19 @@
+{
+  "title": "Leaf-Similar Trees",
+  "titleSlug": "leaf-similar-trees",
+  "frontendQuestionId": "904",
+  "leetcodeUrl": "https://leetcode.com/problems/leaf-similar-trees/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115528041",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:48:01.053Z",
+  "backfilledAt": "2026-08-30T13:48:01.053Z"
+}

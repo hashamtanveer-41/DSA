@@ -1,0 +1,18 @@
+{
+  "title": "Lemonade Change",
+  "titleSlug": "lemonade-change",
+  "frontendQuestionId": "890",
+  "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2114409477",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:47:59.404Z",
+  "backfilledAt": "2026-08-30T13:47:59.404Z"
+}
