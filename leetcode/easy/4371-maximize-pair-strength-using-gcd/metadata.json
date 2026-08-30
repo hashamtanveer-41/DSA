@@ -1,0 +1,20 @@
+{
+  "title": "Maximize Pair Strength Using GCD",
+  "titleSlug": "maximize-pair-strength-using-gcd",
+  "frontendQuestionId": "4371",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-pair-strength-using-gcd/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2093241624",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:50:49.299Z",
+  "backfilledAt": "2026-08-30T13:50:49.299Z"
+}

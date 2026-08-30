@@ -1,0 +1,20 @@
+{
+  "title": "Widest Possible Fence",
+  "titleSlug": "widest-possible-fence",
+  "frontendQuestionId": "4362",
+  "leetcodeUrl": "https://leetcode.com/problems/widest-possible-fence/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2090598372",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:50:47.593Z",
+  "backfilledAt": "2026-08-30T13:50:47.593Z"
+}
