@@ -1,0 +1,18 @@
+{
+  "title": "Reverse Words in a String",
+  "titleSlug": "reverse-words-in-a-string",
+  "frontendQuestionId": "151",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2112862527",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:25:45.740Z",
+  "backfilledAt": "2026-08-30T13:25:45.740Z"
+}
