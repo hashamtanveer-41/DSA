@@ -1,0 +1,19 @@
+{
+  "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+  "titleSlug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+  "frontendQuestionId": "714",
+  "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2118960719",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:38:30.471Z",
+  "backfilledAt": "2026-08-30T13:38:30.471Z"
+}

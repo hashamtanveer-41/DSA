@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/search-in-a-binary-search-tree/">783. Search in a Binary Search Tree</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

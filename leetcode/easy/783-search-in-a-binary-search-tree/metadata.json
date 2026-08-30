@@ -1,0 +1,19 @@
+{
+  "title": "Search in a Binary Search Tree",
+  "titleSlug": "search-in-a-binary-search-tree",
+  "frontendQuestionId": "783",
+  "leetcodeUrl": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2074909417",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:38:27.507Z",
+  "backfilledAt": "2026-08-30T13:38:27.507Z"
+}
