@@ -1,0 +1,19 @@
+{
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "frontendQuestionId": "14",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Trie"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2096822825",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:16.744Z",
+  "backfilledAt": "2026-08-30T14:06:16.744Z"
+}
