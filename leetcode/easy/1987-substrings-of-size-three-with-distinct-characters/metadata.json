@@ -1,0 +1,20 @@
+{
+  "title": "Substrings of Size Three with Distinct Characters",
+  "titleSlug": "substrings-of-size-three-with-distinct-characters",
+  "frontendQuestionId": "1987",
+  "leetcodeUrl": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072777556",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:02.549Z",
+  "backfilledAt": "2026-08-30T14:11:02.549Z"
+}

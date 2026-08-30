@@ -1,0 +1,20 @@
+{
+  "title": "Number of Students Unable to Eat Lunch",
+  "titleSlug": "number-of-students-unable-to-eat-lunch",
+  "frontendQuestionId": "1802",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Stack",
+    "Queue",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2088852167",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:01.316Z",
+  "backfilledAt": "2026-08-30T14:11:01.316Z"
+}
