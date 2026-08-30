@@ -1,0 +1,20 @@
+{
+  "title": "Max Consecutive Ones III",
+  "titleSlug": "max-consecutive-ones-iii",
+  "frontendQuestionId": "1046",
+  "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2114464541",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:27.116Z",
+  "backfilledAt": "2026-08-30T14:10:27.116Z"
+}
