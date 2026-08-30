@@ -1,0 +1,19 @@
+{
+  "title": "Binary Tree Level Order Traversal II",
+  "titleSlug": "binary-tree-level-order-traversal-ii",
+  "frontendQuestionId": "107",
+  "leetcodeUrl": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Breadth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2070385140",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:18.900Z",
+  "backfilledAt": "2026-08-30T14:07:18.900Z"
+}

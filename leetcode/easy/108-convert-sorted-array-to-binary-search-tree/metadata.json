@@ -1,0 +1,21 @@
+{
+  "title": "Convert Sorted Array to Binary Search Tree",
+  "titleSlug": "convert-sorted-array-to-binary-search-tree",
+  "frontendQuestionId": "108",
+  "leetcodeUrl": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Divide and Conquer",
+    "Tree",
+    "Binary Search Tree",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2123068409",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:20.002Z",
+  "backfilledAt": "2026-08-30T14:07:20.002Z"
+}
