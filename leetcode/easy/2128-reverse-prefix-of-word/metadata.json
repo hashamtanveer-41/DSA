@@ -1,0 +1,19 @@
+{
+  "title": "Reverse Prefix of Word",
+  "titleSlug": "reverse-prefix-of-word",
+  "frontendQuestionId": "2128",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2070441934",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:12.990Z",
+  "backfilledAt": "2026-08-30T14:11:12.990Z"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Final Value of Variable After Performing Operations",
+  "titleSlug": "final-value-of-variable-after-performing-operations",
+  "frontendQuestionId": "2137",
+  "leetcodeUrl": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2026741467",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:13.919Z",
+  "backfilledAt": "2026-08-30T14:11:13.919Z"
+}

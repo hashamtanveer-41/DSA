@@ -1,0 +1,18 @@
+{
+  "title": "Concatenation of Array",
+  "titleSlug": "concatenation-of-array",
+  "frontendQuestionId": "2058",
+  "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1953248997",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:11.811Z",
+  "backfilledAt": "2026-08-30T14:11:11.811Z"
+}
