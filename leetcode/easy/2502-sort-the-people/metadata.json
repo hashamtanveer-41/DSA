@@ -1,0 +1,20 @@
+{
+  "title": "Sort the People",
+  "titleSlug": "sort-the-people",
+  "frontendQuestionId": "2502",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-the-people/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2065360279",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:31.265Z",
+  "backfilledAt": "2026-08-30T14:11:31.265Z"
+}
