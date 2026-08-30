@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Product Subarray",
+  "titleSlug": "maximum-product-subarray",
+  "frontendQuestionId": "152",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1992135155",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:36:37.824Z",
+  "backfilledAt": "2026-08-30T13:36:37.824Z"
+}
