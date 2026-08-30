@@ -1,0 +1,18 @@
+{
+  "title": "Distribute Elements Into Two Arrays I",
+  "titleSlug": "distribute-elements-into-two-arrays-i",
+  "frontendQuestionId": "3347",
+  "leetcodeUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2114457725",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:49:56.308Z",
+  "backfilledAt": "2026-08-30T13:49:56.308Z"
+}

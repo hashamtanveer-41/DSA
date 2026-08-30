@@ -1,0 +1,18 @@
+{
+  "title": "Find Common Elements Between Two Arrays",
+  "titleSlug": "find-common-elements-between-two-arrays",
+  "frontendQuestionId": "3206",
+  "leetcodeUrl": "https://leetcode.com/problems/find-common-elements-between-two-arrays/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2065376263",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:49:52.771Z",
+  "backfilledAt": "2026-08-30T13:49:52.771Z"
+}

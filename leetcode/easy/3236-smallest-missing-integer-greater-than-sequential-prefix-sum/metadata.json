@@ -1,0 +1,19 @@
+{
+  "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+  "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+  "frontendQuestionId": "3236",
+  "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2103476296",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:49:55.023Z",
+  "backfilledAt": "2026-08-30T13:49:55.023Z"
+}
