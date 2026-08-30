@@ -1,0 +1,19 @@
+{
+  "title": "Decode String",
+  "titleSlug": "decode-string",
+  "frontendQuestionId": "394",
+  "leetcodeUrl": "https://leetcode.com/problems/decode-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115488723",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:55:16.254Z",
+  "backfilledAt": "2026-08-30T13:55:16.255Z"
+}

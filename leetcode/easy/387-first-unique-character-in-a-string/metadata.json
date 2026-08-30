@@ -1,0 +1,20 @@
+{
+  "title": "First Unique Character in a String",
+  "titleSlug": "first-unique-character-in-a-string",
+  "frontendQuestionId": "387",
+  "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Queue",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2024748189",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:55:12.773Z",
+  "backfilledAt": "2026-08-30T13:55:12.773Z"
+}

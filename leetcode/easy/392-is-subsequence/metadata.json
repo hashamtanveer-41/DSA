@@ -1,0 +1,19 @@
+{
+  "title": "Is Subsequence",
+  "titleSlug": "is-subsequence",
+  "frontendQuestionId": "392",
+  "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2113242546",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:55:14.718Z",
+  "backfilledAt": "2026-08-30T13:55:14.718Z"
+}
