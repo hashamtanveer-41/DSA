@@ -1,0 +1,20 @@
+{
+  "title": "Total Cost to Hire K Workers",
+  "titleSlug": "total-cost-to-hire-k-workers",
+  "frontendQuestionId": "2553",
+  "leetcodeUrl": "https://leetcode.com/problems/total-cost-to-hire-k-workers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Heap (Priority Queue)",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2117858172",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:36.538Z",
+  "backfilledAt": "2026-08-30T14:11:36.538Z"
+}

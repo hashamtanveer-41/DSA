@@ -1,0 +1,19 @@
+{
+  "title": "Merge Two 2D Arrays by Summing Values",
+  "titleSlug": "merge-two-2d-arrays-by-summing-values",
+  "frontendQuestionId": "2707",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2071270056",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:38.786Z",
+  "backfilledAt": "2026-08-30T14:11:38.786Z"
+}
