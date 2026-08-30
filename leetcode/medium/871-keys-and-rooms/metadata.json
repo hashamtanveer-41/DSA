@@ -1,0 +1,19 @@
+{
+  "title": "Keys and Rooms",
+  "titleSlug": "keys-and-rooms",
+  "frontendQuestionId": "871",
+  "leetcodeUrl": "https://leetcode.com/problems/keys-and-rooms/",
+  "difficulty": "Medium",
+  "topics": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2116512217",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:53.744Z",
+  "backfilledAt": "2026-08-30T14:09:53.744Z"
+}

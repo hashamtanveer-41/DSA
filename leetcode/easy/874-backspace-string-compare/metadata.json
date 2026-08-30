@@ -1,0 +1,20 @@
+{
+  "title": "Backspace String Compare",
+  "titleSlug": "backspace-string-compare",
+  "frontendQuestionId": "874",
+  "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+  "difficulty": "Easy",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Stack",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2076142130",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:54.977Z",
+  "backfilledAt": "2026-08-30T14:09:54.977Z"
+}
