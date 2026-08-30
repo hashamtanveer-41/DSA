@@ -1,0 +1,17 @@
+{
+  "title": "Insert Interval",
+  "titleSlug": "insert-interval",
+  "frontendQuestionId": "57",
+  "leetcodeUrl": "https://leetcode.com/problems/insert-interval/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2001515003",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:35:47.260Z",
+  "backfilledAt": "2026-08-30T13:35:47.263Z"
+}

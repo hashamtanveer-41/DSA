@@ -1,0 +1,19 @@
+{
+  "title": "Unique Paths",
+  "titleSlug": "unique-paths",
+  "frontendQuestionId": "62",
+  "leetcodeUrl": "https://leetcode.com/problems/unique-paths/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2110656406",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:35:49.123Z",
+  "backfilledAt": "2026-08-30T13:35:49.123Z"
+}

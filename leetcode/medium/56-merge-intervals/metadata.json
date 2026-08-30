@@ -1,0 +1,19 @@
+{
+  "title": "Merge Intervals",
+  "titleSlug": "merge-intervals",
+  "frontendQuestionId": "56",
+  "leetcodeUrl": "https://leetcode.com/problems/merge-intervals/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2000742497",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:35:46.128Z",
+  "backfilledAt": "2026-08-30T13:35:46.128Z"
+}
