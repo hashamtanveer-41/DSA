@@ -1,0 +1,19 @@
+{
+  "title": "Subarray Sums Divisible by K",
+  "titleSlug": "subarray-sums-divisible-by-k",
+  "frontendQuestionId": "1016",
+  "leetcodeUrl": "https://leetcode.com/problems/subarray-sums-divisible-by-k/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1998368177",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:28:33.574Z",
+  "backfilledAt": "2026-08-30T13:28:33.574Z"
+}

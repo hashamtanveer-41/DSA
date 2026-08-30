@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/squares-of-a-sorted-array/">1019. Squares of a Sorted Array</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

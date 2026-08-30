@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/number-of-recent-calls/">969. Number of Recent Calls</a></h2><h3>Easy</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

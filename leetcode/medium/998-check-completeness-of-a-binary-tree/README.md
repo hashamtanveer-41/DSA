@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/check-completeness-of-a-binary-tree/">998. Check Completeness of a Binary Tree</a></h2><h3>Medium</h3><hr><p>Backfilled by AlgoVault GitHub Sync.</p>

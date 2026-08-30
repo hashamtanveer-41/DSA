@@ -1,0 +1,19 @@
+{
+  "title": "Number of Recent Calls",
+  "titleSlug": "number-of-recent-calls",
+  "frontendQuestionId": "969",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-recent-calls/",
+  "difficulty": "Easy",
+  "topics": [
+    "Design",
+    "Queue",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2115505273",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:28:31.028Z",
+  "backfilledAt": "2026-08-30T13:28:31.028Z"
+}

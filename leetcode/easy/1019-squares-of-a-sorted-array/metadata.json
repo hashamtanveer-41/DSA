@@ -1,0 +1,19 @@
+{
+  "title": "Squares of a Sorted Array",
+  "titleSlug": "squares-of-a-sorted-array",
+  "frontendQuestionId": "1019",
+  "leetcodeUrl": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1972599245",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:28:34.292Z",
+  "backfilledAt": "2026-08-30T13:28:34.292Z"
+}
