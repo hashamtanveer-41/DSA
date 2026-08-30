@@ -1,0 +1,19 @@
+{
+  "title": "Delete Nodes From Linked List Present in Array",
+  "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+  "frontendQuestionId": "3501",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2075059584",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T13:57:59.492Z",
+  "backfilledAt": "2026-08-30T13:57:59.492Z"
+}
