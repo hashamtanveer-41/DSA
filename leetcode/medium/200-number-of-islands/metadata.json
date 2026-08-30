@@ -1,0 +1,21 @@
+{
+  "title": "Number of Islands",
+  "titleSlug": "number-of-islands",
+  "frontendQuestionId": "200",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-islands/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2085361757",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:57.442Z",
+  "backfilledAt": "2026-08-30T14:07:57.443Z"
+}

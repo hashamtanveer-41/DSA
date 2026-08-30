@@ -1,0 +1,20 @@
+{
+  "title": "Happy Number",
+  "titleSlug": "happy-number",
+  "frontendQuestionId": "202",
+  "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "Two Pointers",
+    "Floyd's Cycle Finding Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1988875922",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:58.529Z",
+  "backfilledAt": "2026-08-30T14:07:58.529Z"
+}
