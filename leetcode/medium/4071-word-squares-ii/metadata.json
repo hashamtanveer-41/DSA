@@ -1,0 +1,21 @@
+{
+  "title": "Word Squares II",
+  "titleSlug": "word-squares-ii",
+  "frontendQuestionId": "4071",
+  "leetcodeUrl": "https://leetcode.com/problems/word-squares-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "String",
+    "Backtracking",
+    "Sorting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2098488104",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:46.569Z",
+  "backfilledAt": "2026-08-30T14:11:46.569Z"
+}

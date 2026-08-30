@@ -1,0 +1,19 @@
+{
+  "title": "Choose K Elements With Maximum Sum",
+  "titleSlug": "choose-k-elements-with-maximum-sum",
+  "frontendQuestionId": "3759",
+  "leetcodeUrl": "https://leetcode.com/problems/choose-k-elements-with-maximum-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2100343915",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:44.080Z",
+  "backfilledAt": "2026-08-30T14:11:44.080Z"
+}

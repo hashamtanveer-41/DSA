@@ -1,0 +1,17 @@
+{
+  "title": "Largest Even Number",
+  "titleSlug": "largest-even-number",
+  "frontendQuestionId": "4179",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-even-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2097289538",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:11:45.327Z",
+  "backfilledAt": "2026-08-30T14:11:45.327Z"
+}
