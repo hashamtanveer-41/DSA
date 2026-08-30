@@ -1,0 +1,19 @@
+{
+  "title": "Sum Root to Leaf Numbers",
+  "titleSlug": "sum-root-to-leaf-numbers",
+  "frontendQuestionId": "129",
+  "leetcodeUrl": "https://leetcode.com/problems/sum-root-to-leaf-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2078786695",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:35.080Z",
+  "backfilledAt": "2026-08-30T14:07:35.080Z"
+}

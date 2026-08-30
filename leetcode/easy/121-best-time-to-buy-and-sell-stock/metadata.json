@@ -1,0 +1,18 @@
+{
+  "title": "Best Time to Buy and Sell Stock",
+  "titleSlug": "best-time-to-buy-and-sell-stock",
+  "frontendQuestionId": "121",
+  "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2110681148",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:07:33.955Z",
+  "backfilledAt": "2026-08-30T14:07:33.955Z"
+}
