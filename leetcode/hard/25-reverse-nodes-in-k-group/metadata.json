@@ -1,0 +1,18 @@
+{
+  "title": "Reverse Nodes in k-Group",
+  "titleSlug": "reverse-nodes-in-k-group",
+  "frontendQuestionId": "25",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+  "difficulty": "Hard",
+  "topics": [
+    "Linked List",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2033258973",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:06:47.472Z",
+  "backfilledAt": "2026-08-30T14:06:47.472Z"
+}
