@@ -1,0 +1,17 @@
+{
+  "title": "Delete Node in a Linked List",
+  "titleSlug": "delete-node-in-a-linked-list",
+  "frontendQuestionId": "237",
+  "leetcodeUrl": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2075073511",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:27.197Z",
+  "backfilledAt": "2026-08-30T14:08:27.197Z"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Lowest Common Ancestor of a Binary Tree",
+  "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+  "frontendQuestionId": "236",
+  "leetcodeUrl": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+  "difficulty": "Medium",
+  "topics": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "Binary Lifting",
+    "Lowest Common Ancestor"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2073875911",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:24.592Z",
+  "backfilledAt": "2026-08-30T14:08:24.592Z"
+}
