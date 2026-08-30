@@ -1,0 +1,24 @@
+{
+  "title": "Path With Minimum Effort",
+  "titleSlug": "path-with-minimum-effort",
+  "frontendQuestionId": "1753",
+  "leetcodeUrl": "https://leetcode.com/problems/path-with-minimum-effort/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix",
+    "Dijkstra's Algorithm"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2095911420",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:52.281Z",
+  "backfilledAt": "2026-08-30T14:10:52.281Z"
+}

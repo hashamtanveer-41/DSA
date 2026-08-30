@@ -1,0 +1,20 @@
+{
+  "title": "Max Number of K-Sum Pairs",
+  "titleSlug": "max-number-of-k-sum-pairs",
+  "frontendQuestionId": "1798",
+  "leetcodeUrl": "https://leetcode.com/problems/max-number-of-k-sum-pairs/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2114191713",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:55.120Z",
+  "backfilledAt": "2026-08-30T14:10:55.120Z"
+}
