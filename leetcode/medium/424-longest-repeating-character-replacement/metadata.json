@@ -1,0 +1,19 @@
+{
+  "title": "Longest Repeating Character Replacement",
+  "titleSlug": "longest-repeating-character-replacement",
+  "frontendQuestionId": "424",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2072770084",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:52.902Z",
+  "backfilledAt": "2026-08-30T14:08:52.902Z"
+}

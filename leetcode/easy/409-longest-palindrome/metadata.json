@@ -1,0 +1,19 @@
+{
+  "title": "Longest Palindrome",
+  "titleSlug": "longest-palindrome",
+  "frontendQuestionId": "409",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2029098111",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:08:50.654Z",
+  "backfilledAt": "2026-08-30T14:08:50.654Z"
+}
