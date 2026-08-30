@@ -1,0 +1,19 @@
+{
+  "title": "Contiguous Array",
+  "titleSlug": "contiguous-array",
+  "frontendQuestionId": "525",
+  "leetcodeUrl": "https://leetcode.com/problems/contiguous-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "1998941258",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:19.098Z",
+  "backfilledAt": "2026-08-30T14:09:19.098Z"
+}

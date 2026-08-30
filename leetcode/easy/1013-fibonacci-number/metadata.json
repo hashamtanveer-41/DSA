@@ -1,0 +1,20 @@
+{
+  "title": "Fibonacci Number",
+  "titleSlug": "fibonacci-number",
+  "frontendQuestionId": "1013",
+  "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "Dynamic Programming",
+    "Recursion",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2105993453",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:09:18.005Z",
+  "backfilledAt": "2026-08-30T14:09:18.005Z"
+}
