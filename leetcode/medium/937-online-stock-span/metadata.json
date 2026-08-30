@@ -1,0 +1,20 @@
+{
+  "title": "Online Stock Span",
+  "titleSlug": "online-stock-span",
+  "frontendQuestionId": "937",
+  "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+  "difficulty": "Medium",
+  "topics": [
+    "Stack",
+    "Design",
+    "Monotonic Stack",
+    "Data Stream"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2120214728",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:03.158Z",
+  "backfilledAt": "2026-08-30T14:10:03.158Z"
+}

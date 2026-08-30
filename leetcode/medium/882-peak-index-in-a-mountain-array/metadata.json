@@ -1,0 +1,19 @@
+{
+  "title": "Peak Index in a Mountain Array",
+  "titleSlug": "peak-index-in-a-mountain-array",
+  "frontendQuestionId": "882",
+  "leetcodeUrl": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Ternary Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2038047551",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-08-30T14:10:01.700Z",
+  "backfilledAt": "2026-08-30T14:10:01.700Z"
+}
