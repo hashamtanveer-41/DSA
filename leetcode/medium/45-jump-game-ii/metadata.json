@@ -1,0 +1,19 @@
+{
+  "title": "Jump Game II",
+  "titleSlug": "jump-game-ii",
+  "frontendQuestionId": "45",
+  "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2126553657",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-01T06:43:49.363Z",
+  "backfilledAt": "2026-09-01T06:43:49.363Z"
+}

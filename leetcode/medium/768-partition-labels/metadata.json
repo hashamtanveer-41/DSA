@@ -1,0 +1,20 @@
+{
+  "title": "Partition Labels",
+  "titleSlug": "partition-labels",
+  "frontendQuestionId": "768",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-labels/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2126909751",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-01T06:43:50.591Z",
+  "backfilledAt": "2026-09-01T06:43:50.591Z"
+}
