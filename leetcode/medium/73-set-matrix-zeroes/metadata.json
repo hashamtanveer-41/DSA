@@ -1,0 +1,24 @@
+{
+  "title": "Set Matrix Zeroes",
+  "titleSlug": "set-matrix-zeroes",
+  "frontendQuestionId": "73",
+  "leetcodeUrl": "https://leetcode.com/problems/set-matrix-zeroes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-01T18:20:46.262Z",
+  "runtimeMs": 0,
+  "memoryKb": 21504,
+  "totalCorrect": 211,
+  "totalTestcases": 211,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-01T18:20:48.388Z"
+}
