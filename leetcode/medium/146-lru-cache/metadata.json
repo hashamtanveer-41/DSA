@@ -1,0 +1,25 @@
+{
+  "title": "LRU Cache",
+  "titleSlug": "lru-cache",
+  "frontendQuestionId": "146",
+  "leetcodeUrl": "https://leetcode.com/problems/lru-cache/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "Linked List",
+    "Design",
+    "Doubly-Linked List"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-01T10:29:34.491Z",
+  "runtimeMs": 4,
+  "memoryKb": 48845,
+  "totalCorrect": 23,
+  "totalTestcases": 23,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-01T10:29:35.579Z"
+}
