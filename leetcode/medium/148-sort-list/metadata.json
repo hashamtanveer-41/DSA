@@ -1,0 +1,26 @@
+{
+  "title": "Sort List",
+  "titleSlug": "sort-list",
+  "frontendQuestionId": "148",
+  "leetcodeUrl": "https://leetcode.com/problems/sort-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers",
+    "Divide and Conquer",
+    "Sorting",
+    "Merge Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-01T12:36:13.209Z",
+  "runtimeMs": 49,
+  "memoryKb": 77517,
+  "totalCorrect": 30,
+  "totalTestcases": 30,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-01T12:36:17.175Z"
+}
