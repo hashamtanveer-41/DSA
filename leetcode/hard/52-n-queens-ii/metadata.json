@@ -1,0 +1,23 @@
+{
+  "title": "N-Queens II",
+  "titleSlug": "n-queens-ii",
+  "frontendQuestionId": "52",
+  "leetcodeUrl": "https://leetcode.com/problems/n-queens-ii/",
+  "difficulty": "Hard",
+  "topics": [
+    "Backtracking",
+    "Algorithm X"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-02T16:49:52.903Z",
+  "runtimeMs": 3,
+  "memoryKb": 8397,
+  "totalCorrect": 9,
+  "totalTestcases": 9,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-02T16:49:57.947Z"
+}
