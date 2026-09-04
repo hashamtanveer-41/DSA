@@ -1,0 +1,19 @@
+{
+  "title": "Median of Two Sorted Arrays",
+  "titleSlug": "median-of-two-sorted-arrays",
+  "frontendQuestionId": "4",
+  "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Divide and Conquer"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2129587138",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-04T19:39:39.912Z",
+  "backfilledAt": "2026-09-04T19:39:39.913Z"
+}
