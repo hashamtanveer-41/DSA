@@ -1,0 +1,19 @@
+{
+  "title": "H-Index",
+  "titleSlug": "h-index",
+  "frontendQuestionId": "274",
+  "leetcodeUrl": "https://leetcode.com/problems/h-index/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2139489277",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-12T14:54:05.457Z",
+  "backfilledAt": "2026-09-12T14:54:05.457Z"
+}

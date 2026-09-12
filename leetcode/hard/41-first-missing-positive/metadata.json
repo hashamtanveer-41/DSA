@@ -1,0 +1,18 @@
+{
+  "title": "First Missing Positive",
+  "titleSlug": "first-missing-positive",
+  "frontendQuestionId": "41",
+  "leetcodeUrl": "https://leetcode.com/problems/first-missing-positive/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2133177686",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-12T14:54:04.519Z",
+  "backfilledAt": "2026-09-12T14:54:04.519Z"
+}
