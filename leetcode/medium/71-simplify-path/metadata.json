@@ -1,0 +1,18 @@
+{
+  "title": "Simplify Path",
+  "titleSlug": "simplify-path",
+  "frontendQuestionId": "71",
+  "leetcodeUrl": "https://leetcode.com/problems/simplify-path/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2145102669",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-20T06:14:39.380Z",
+  "backfilledAt": "2026-09-20T06:14:39.380Z"
+}
