@@ -1,0 +1,18 @@
+{
+  "title": "Count Values With Equally Spaced Occurrences I",
+  "titleSlug": "count-values-with-equally-spaced-occurrences-i",
+  "frontendQuestionId": "4415",
+  "leetcodeUrl": "https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2139583679",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-20T06:14:53.712Z",
+  "backfilledAt": "2026-09-20T06:14:53.712Z"
+}
