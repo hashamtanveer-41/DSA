@@ -1,0 +1,18 @@
+{
+  "title": "Circle and Rectangle Overlapping",
+  "titleSlug": "circle-and-rectangle-overlapping",
+  "frontendQuestionId": "1501",
+  "leetcodeUrl": "https://leetcode.com/problems/circle-and-rectangle-overlapping/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Geometry"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2146367539",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-20T06:14:46.699Z",
+  "backfilledAt": "2026-09-20T06:14:46.699Z"
+}

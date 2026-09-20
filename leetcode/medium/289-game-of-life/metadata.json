@@ -1,0 +1,19 @@
+{
+  "title": "Game of Life",
+  "titleSlug": "game-of-life",
+  "frontendQuestionId": "289",
+  "leetcodeUrl": "https://leetcode.com/problems/game-of-life/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2145791756",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-20T06:14:45.731Z",
+  "backfilledAt": "2026-09-20T06:14:45.731Z"
+}
