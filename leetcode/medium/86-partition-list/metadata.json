@@ -1,0 +1,18 @@
+{
+  "title": "Partition List",
+  "titleSlug": "partition-list",
+  "frontendQuestionId": "86",
+  "leetcodeUrl": "https://leetcode.com/problems/partition-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2151979652",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-27T03:04:35.870Z",
+  "backfilledAt": "2026-09-27T03:04:35.870Z"
+}
