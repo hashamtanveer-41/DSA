@@ -13,8 +13,8 @@
   "memoryKb": 28672,
   "totalCorrect": 634,
   "totalTestcases": 634,
-  "helpType": "PENDING_SELF_REPORT",
-  "helpLabel": "Pending self report",
+  "helpType": "EDITORIAL",
+  "helpLabel": "Used editorial",
   "focusSeconds": null,
-  "syncedAt": "2026-09-27T07:56:04.146Z"
+  "syncedAt": "2026-09-27T07:56:12.748Z"
 }
