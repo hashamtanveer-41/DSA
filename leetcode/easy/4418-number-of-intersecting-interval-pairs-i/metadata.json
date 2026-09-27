@@ -1,0 +1,15 @@
+{
+  "title": "Number of Intersecting Interval Pairs I",
+  "titleSlug": "number-of-intersecting-interval-pairs-i",
+  "frontendQuestionId": "4418",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2147201227",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-27T03:04:41.653Z",
+  "backfilledAt": "2026-09-27T03:04:41.653Z"
+}
