@@ -1,0 +1,17 @@
+{
+  "title": "Length of Last Word",
+  "titleSlug": "length-of-last-word",
+  "frontendQuestionId": "58",
+  "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2149036561",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-27T03:04:28.913Z",
+  "backfilledAt": "2026-09-27T03:04:28.913Z"
+}
