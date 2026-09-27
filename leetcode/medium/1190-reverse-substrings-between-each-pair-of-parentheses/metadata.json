@@ -1,0 +1,24 @@
+{
+  "title": "Reverse Substrings Between Each Pair of Parentheses",
+  "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+  "frontendQuestionId": "1190",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/",
+  "difficulty": "Medium",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-27T06:27:14.612Z",
+  "runtimeMs": 0,
+  "memoryKb": 8602,
+  "totalCorrect": 40,
+  "totalTestcases": 40,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-27T06:27:15.413Z"
+}
