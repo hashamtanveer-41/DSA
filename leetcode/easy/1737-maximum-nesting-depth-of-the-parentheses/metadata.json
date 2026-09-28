@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Nesting Depth of the Parentheses",
+  "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+  "frontendQuestionId": "1737",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2156066083",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-09-28T18:00:50.390Z",
+  "backfilledAt": "2026-09-28T18:00:50.390Z"
+}
