@@ -1,0 +1,21 @@
+{
+  "title": "Minimum Sum of Squared Difference",
+  "titleSlug": "minimum-sum-of-squared-difference",
+  "frontendQuestionId": "2418",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-sum-of-squared-difference/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2169557313",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:25.403Z",
+  "backfilledAt": "2026-11-22T10:52:25.403Z"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Calculate Digit Sum of a String",
+  "titleSlug": "calculate-digit-sum-of-a-string",
+  "frontendQuestionId": "2361",
+  "leetcodeUrl": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2196964947",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:24.065Z",
+  "backfilledAt": "2026-11-22T10:52:24.065Z"
+}

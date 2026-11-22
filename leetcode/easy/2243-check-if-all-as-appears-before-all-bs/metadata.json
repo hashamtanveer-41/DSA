@@ -1,0 +1,17 @@
+{
+  "title": "Check if All A's Appears Before All B's",
+  "titleSlug": "check-if-all-as-appears-before-all-bs",
+  "frontendQuestionId": "2243",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+  "difficulty": "Easy",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2201208925",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:22.793Z",
+  "backfilledAt": "2026-11-22T10:52:22.793Z"
+}
