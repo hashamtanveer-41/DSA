@@ -1,0 +1,19 @@
+{
+  "title": "Remove Outermost Parentheses",
+  "titleSlug": "remove-outermost-parentheses",
+  "frontendQuestionId": "1078",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-outermost-parentheses/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "Stack",
+    "Bracket Sequences"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2165847275",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:51:57.632Z",
+  "backfilledAt": "2026-11-22T10:51:57.632Z"
+}

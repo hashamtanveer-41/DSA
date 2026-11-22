@@ -1,0 +1,21 @@
+{
+  "title": "Number of Closed Islands",
+  "titleSlug": "number-of-closed-islands",
+  "frontendQuestionId": "1380",
+  "leetcodeUrl": "https://leetcode.com/problems/number-of-closed-islands/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2181620324",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:00.061Z",
+  "backfilledAt": "2026-11-22T10:52:00.061Z"
+}
