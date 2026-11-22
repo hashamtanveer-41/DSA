@@ -1,0 +1,15 @@
+{
+  "title": "Longest Resilient Subarray I",
+  "titleSlug": "longest-resilient-subarray-i",
+  "frontendQuestionId": "4438",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-resilient-subarray-i/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2170507179",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:46.990Z",
+  "backfilledAt": "2026-11-22T10:53:46.990Z"
+}
