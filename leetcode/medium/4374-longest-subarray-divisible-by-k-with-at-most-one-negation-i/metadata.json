@@ -1,0 +1,19 @@
+{
+  "title": "Longest Subarray Divisible by K with At Most One Negation I",
+  "titleSlug": "longest-subarray-divisible-by-k-with-at-most-one-negation-i",
+  "frontendQuestionId": "4374",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-i/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2157497020",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:38.362Z",
+  "backfilledAt": "2026-11-22T10:53:38.362Z"
+}
