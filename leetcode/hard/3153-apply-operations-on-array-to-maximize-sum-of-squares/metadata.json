@@ -1,0 +1,20 @@
+{
+  "title": "Apply Operations on Array to Maximize Sum of Squares",
+  "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares",
+  "frontendQuestionId": "3153",
+  "leetcodeUrl": "https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2170177733",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:33.981Z",
+  "backfilledAt": "2026-11-22T10:52:33.981Z"
+}
