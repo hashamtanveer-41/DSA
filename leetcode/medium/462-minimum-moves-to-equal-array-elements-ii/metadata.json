@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Moves to Equal Array Elements II",
+  "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+  "frontendQuestionId": "462",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2193259436",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:51:50.158Z",
+  "backfilledAt": "2026-11-22T10:51:50.158Z"
+}
