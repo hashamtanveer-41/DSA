@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Positive Sum Subarray ",
+  "titleSlug": "minimum-positive-sum-subarray",
+  "frontendQuestionId": "3644",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2195872118",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:49.726Z",
+  "backfilledAt": "2026-11-22T10:52:49.726Z"
+}

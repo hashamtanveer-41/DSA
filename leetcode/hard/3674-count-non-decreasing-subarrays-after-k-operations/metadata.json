@@ -1,0 +1,23 @@
+{
+  "title": "Count Non-Decreasing Subarrays After K Operations",
+  "titleSlug": "count-non-decreasing-subarrays-after-k-operations",
+  "frontendQuestionId": "3674",
+  "leetcodeUrl": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Stack",
+    "Segment Tree",
+    "Queue",
+    "Sliding Window",
+    "Monotonic Stack",
+    "Monotonic Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2195623536",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:50.874Z",
+  "backfilledAt": "2026-11-22T10:52:50.874Z"
+}
