@@ -1,0 +1,19 @@
+{
+  "title": "Implement Queue using Stacks",
+  "titleSlug": "implement-queue-using-stacks",
+  "frontendQuestionId": "232",
+  "leetcodeUrl": "https://leetcode.com/problems/implement-queue-using-stacks/",
+  "difficulty": "Easy",
+  "topics": [
+    "Stack",
+    "Design",
+    "Queue"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2189895106",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:51:41.165Z",
+  "backfilledAt": "2026-11-22T10:51:41.165Z"
+}
