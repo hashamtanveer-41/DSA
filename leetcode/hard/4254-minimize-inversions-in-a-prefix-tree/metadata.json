@@ -1,0 +1,15 @@
+{
+  "title": "Minimize Inversions in a Prefix Tree",
+  "titleSlug": "minimize-inversions-in-a-prefix-tree",
+  "frontendQuestionId": "4254",
+  "leetcodeUrl": "https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/",
+  "difficulty": "Hard",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2170508311",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:53.447Z",
+  "backfilledAt": "2026-11-22T10:53:53.447Z"
+}
