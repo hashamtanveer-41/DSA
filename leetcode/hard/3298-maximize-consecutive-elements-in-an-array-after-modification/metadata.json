@@ -1,0 +1,19 @@
+{
+  "title": "Maximize Consecutive Elements in an Array After Modification",
+  "titleSlug": "maximize-consecutive-elements-in-an-array-after-modification",
+  "frontendQuestionId": "3298",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2200192530",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:42.827Z",
+  "backfilledAt": "2026-11-22T10:52:42.827Z"
+}
