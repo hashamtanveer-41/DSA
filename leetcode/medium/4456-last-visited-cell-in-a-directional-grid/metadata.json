@@ -1,0 +1,15 @@
+{
+  "title": "Last Visited Cell in a Directional Grid",
+  "titleSlug": "last-visited-cell-in-a-directional-grid",
+  "frontendQuestionId": "4456",
+  "leetcodeUrl": "https://leetcode.com/problems/last-visited-cell-in-a-directional-grid/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2175001498",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:54:07.414Z",
+  "backfilledAt": "2026-11-22T10:54:07.414Z"
+}
