@@ -1,0 +1,19 @@
+{
+  "title": "Twisted Mirror Path Count",
+  "titleSlug": "twisted-mirror-path-count",
+  "frontendQuestionId": "3938",
+  "leetcodeUrl": "https://leetcode.com/problems/twisted-mirror-path-count/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2186460163",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:04.327Z",
+  "backfilledAt": "2026-11-22T10:53:04.327Z"
+}
