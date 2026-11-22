@@ -1,0 +1,24 @@
+{
+  "title": "Palindromic Path Queries in a Tree",
+  "titleSlug": "palindromic-path-queries-in-a-tree",
+  "frontendQuestionId": "4209",
+  "leetcodeUrl": "https://leetcode.com/problems/palindromic-path-queries-in-a-tree/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "String",
+    "Divide and Conquer",
+    "Bit Manipulation",
+    "Tree",
+    "Depth-First Search",
+    "Binary Indexed Tree",
+    "Segment Tree"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2185014964",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:20.397Z",
+  "backfilledAt": "2026-11-22T10:53:20.397Z"
+}
