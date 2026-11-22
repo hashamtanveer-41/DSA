@@ -1,0 +1,22 @@
+{
+  "title": "Count Servers that Communicate",
+  "titleSlug": "count-servers-that-communicate",
+  "frontendQuestionId": "1396",
+  "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix",
+    "Counting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2193902934",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:06.443Z",
+  "backfilledAt": "2026-11-22T10:52:06.443Z"
+}
