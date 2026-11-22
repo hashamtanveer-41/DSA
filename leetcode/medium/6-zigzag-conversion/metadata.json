@@ -1,0 +1,17 @@
+{
+  "title": "Zigzag Conversion",
+  "titleSlug": "zigzag-conversion",
+  "frontendQuestionId": "6",
+  "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+  "difficulty": "Medium",
+  "topics": [
+    "String"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2166374844",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:51:32.539Z",
+  "backfilledAt": "2026-11-22T10:51:32.540Z"
+}
