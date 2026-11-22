@@ -1,0 +1,19 @@
+{
+  "title": "Maximum Alternating Sum of Squares",
+  "titleSlug": "maximum-alternating-sum-of-squares",
+  "frontendQuestionId": "4078",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-alternating-sum-of-squares/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2170697200",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:11.968Z",
+  "backfilledAt": "2026-11-22T10:53:11.968Z"
+}

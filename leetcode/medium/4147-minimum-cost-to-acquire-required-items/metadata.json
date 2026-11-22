@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Cost to Acquire Required Items",
+  "titleSlug": "minimum-cost-to-acquire-required-items",
+  "frontendQuestionId": "4147",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-cost-to-acquire-required-items/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2193877312",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:53:14.550Z",
+  "backfilledAt": "2026-11-22T10:53:14.550Z"
+}
