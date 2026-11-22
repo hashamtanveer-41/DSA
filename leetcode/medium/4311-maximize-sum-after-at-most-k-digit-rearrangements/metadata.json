@@ -1,0 +1,15 @@
+{
+  "title": "Maximize Sum After At Most K Digit Rearrangements",
+  "titleSlug": "maximize-sum-after-at-most-k-digit-rearrangements",
+  "frontendQuestionId": "4311",
+  "leetcodeUrl": "https://leetcode.com/problems/maximize-sum-after-at-most-k-digit-rearrangements/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2181010552",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:54:19.570Z",
+  "backfilledAt": "2026-11-22T10:54:19.570Z"
+}

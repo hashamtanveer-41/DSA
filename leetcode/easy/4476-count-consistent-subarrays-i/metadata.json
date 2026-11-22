@@ -1,0 +1,15 @@
+{
+  "title": "Count Consistent Subarrays I",
+  "titleSlug": "count-consistent-subarrays-i",
+  "frontendQuestionId": "4476",
+  "leetcodeUrl": "https://leetcode.com/problems/count-consistent-subarrays-i/",
+  "difficulty": "Easy",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2196617832",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:54:22.036Z",
+  "backfilledAt": "2026-11-22T10:54:22.036Z"
+}

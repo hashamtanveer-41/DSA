@@ -1,0 +1,15 @@
+{
+  "title": "Count Frequency Staircase Subarrays I",
+  "titleSlug": "count-frequency-staircase-subarrays-i",
+  "frontendQuestionId": "4441",
+  "leetcodeUrl": "https://leetcode.com/problems/count-frequency-staircase-subarrays-i/",
+  "difficulty": "Medium",
+  "topics": [],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2181039255",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:54:21.075Z",
+  "backfilledAt": "2026-11-22T10:54:21.075Z"
+}
