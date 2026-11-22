@@ -1,0 +1,18 @@
+{
+  "title": "Maximum K to Sort a Permutation",
+  "titleSlug": "maximum-k-to-sort-a-permutation",
+  "frontendQuestionId": "3950",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2179951517",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:58.450Z",
+  "backfilledAt": "2026-11-22T10:52:58.450Z"
+}

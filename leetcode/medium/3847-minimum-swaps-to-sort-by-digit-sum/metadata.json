@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Swaps to Sort by Digit Sum",
+  "titleSlug": "minimum-swaps-to-sort-by-digit-sum",
+  "frontendQuestionId": "3847",
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2174601194",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-22T10:52:56.280Z",
+  "backfilledAt": "2026-11-22T10:52:56.280Z"
+}
