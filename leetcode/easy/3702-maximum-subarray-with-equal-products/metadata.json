@@ -1,0 +1,21 @@
+{
+  "title": "Maximum Subarray With Equal Products",
+  "titleSlug": "maximum-subarray-with-equal-products",
+  "frontendQuestionId": "3702",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Math",
+    "Sliding Window",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2202261609",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-24T09:49:45.242Z",
+  "backfilledAt": "2026-11-24T09:49:45.242Z"
+}

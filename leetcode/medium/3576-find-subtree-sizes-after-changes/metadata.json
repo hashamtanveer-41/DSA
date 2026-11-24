@@ -1,0 +1,21 @@
+{
+  "title": "Find Subtree Sizes After Changes",
+  "titleSlug": "find-subtree-sizes-after-changes",
+  "frontendQuestionId": "3576",
+  "leetcodeUrl": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "String",
+    "Tree",
+    "Depth-First Search"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2202494779",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-24T09:49:43.881Z",
+  "backfilledAt": "2026-11-24T09:49:43.881Z"
+}

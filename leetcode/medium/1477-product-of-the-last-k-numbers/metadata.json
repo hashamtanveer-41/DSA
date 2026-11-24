@@ -1,0 +1,21 @@
+{
+  "title": "Product of the Last K Numbers",
+  "titleSlug": "product-of-the-last-k-numbers",
+  "frontendQuestionId": "1477",
+  "leetcodeUrl": "https://leetcode.com/problems/product-of-the-last-k-numbers/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Math",
+    "Design",
+    "Data Stream",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "verdict": "Accepted",
+  "submissionId": "2202258031",
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "syncedAt": "2026-11-24T09:49:42.585Z",
+  "backfilledAt": "2026-11-24T09:49:42.585Z"
+}
